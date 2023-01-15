@@ -9,4 +9,5 @@ Steps to install:
 * On the top right, enable Developer Mode
 * On the top left, there should be a button that says "Load Unpacked"
 * Clicking this button will ask you to look for the extension you downloaded & unzipped. It's probably in your Downloads folder, find it and select it.
+* make sure you're in the SECOND build folder that opens up. You should be loading the build folder INSIDE the unzipped build.zip.
 * In your extensions, you should see MEMER listed. This means you've succesfully installed the extension!
